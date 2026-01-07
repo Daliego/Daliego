@@ -4,10 +4,10 @@
 <div align="center">HiWelcome to my profile!</div>  
   
 
-*<div align="center">I'm an student of Systems Analysisand Development with a lot of experience in Web development, focusing on the use of javascript tools, like ReactJs and ExpressJs. I'm used to agile software developments methods, where I've not just learned on my cours, but used on the LABIRAS, a research laboratory on my institute, where I'm an active member.</div>*  
+*<div align="center">Web Developer with 3+ years of experience building responsive, production-ready web applications using Next.js, Vue.js, and React. Strong full-stack background with Nest.js and Django. Experience with containerization and deployment pipelines. Also skilled in mobile development (React Native). Known for fast adaptation, collaboration in agile teams and continuous learning.</div>*  
   
 
-- 🎓 Student at Instituto Federal de Educação, Ciência e Tecnologia do Piauí - [IFPI](https://www.ifpi.edu.br/)  
+- 🎓 Graduated at Instituto Federal de Educação, Ciência e Tecnologia do Piauí - [IFPI](https://www.ifpi.edu.br/)  
   
 
 - 🔭 Researcher at [LABIRAS](https://github.com/LabirasIFPI)  
